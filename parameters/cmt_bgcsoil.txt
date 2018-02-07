@@ -193,10 +193,10 @@
 19.34             // nmincnsoil: Updated
 0.2               // propftos:
 0.0               // fnloss:  fraction N leaching (0 - 1) when drainage occurs
-6028.95           // initshlwc: Updated
-40300.79          // initdeepc: Updated
-60975             // initminec: Updated
-5548.86           // initsoln: Updated
+6029
+40300             // initdeepc: Updated 40300
+37000             // initminec: Updated 60975 - changed to 37000
+5548              // initsoln: Updated 5549
 9.41              // initavln: Updated
 //===========================================================
 // CMT20 // EML Shrub Tundra - 
